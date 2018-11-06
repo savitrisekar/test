@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="nama_barang">Macbook Pro</string>
+    <string name="harga_barang">20000000</string>
+    <string name="deskrip">Deskripsi Produk</string>
+    <string name="jumlah">Tersisa</string>
+    <string name="qty">20</string>
+    <string name="lengkap">Selengkapnya</string>
+    <string name="produk_det">MacBook Pro membawa laptop ke tingkat performa dan portabilitas yang baru.
+        Ke mana pun ide membawa Anda, Anda akan mewujudkannya lebih cepat dibanding sebelumnya dengan prosesor
+        dan memori performa tinggi, grafis canggih,
+        penyimpanan luar biasa cepat, dan banyak lagi.</string>
+    <string name="text_input">Masukkan Produk Yang Ingin Anda Pesan</string>
+    <string name="btn_ss">Ambil Screenshot</string>
+    <string name="text_register">Apabila Anda tertarik dengan produk yang kami tampilkan,
+        maka Anda dapat mendaftarkan diri dengan mengisi formulir di bawah ini, untuk mendapatkan harga
+        pada setiap produk yang kami jual.</string>
+    <string name="text_nama">Nama</string>
+    <string name="text_email">Email</string>
+    <string name="text_no_wa">No WA</string>
+    <string name="text_tlp">No. Telepon</string>
+    <string name="text_alamat">Alamat</string>
+    <string name="text_notif">Request Notification</string>
+    <string name="text_btn_submit">Submit</string>
+    <string name="text_btn_reset">Reset</string>
+    <string name="screenshot_in">"Screenshot in %d…"</string>
+</resources>
